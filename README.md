@@ -1,7 +1,7 @@
 Spacetracks game level for Unvanquished
 =======================================
 
-![Spacetracks levelshot](meta/spacetracks/spacetracks.png)
+![Spacetracks levelshot](meta/spacetracks/spacetracks.webp)
 
 
 About
