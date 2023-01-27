@@ -1,4 +1,0 @@
-copy textures/spacetracks_custom_src/plasma_decal_d.png
-copy textures/spacetracks_custom_src/steam_decal_d.png
-copy textures/spacetracks_custom_src/waste_decal_d.png
-copy textures/spacetracks_custom_src/water_decal_d.png
