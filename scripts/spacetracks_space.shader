@@ -13,4 +13,3 @@ textures/spacetracks_space/sky08
 
 	skyparms env/shared_space_src/sky08 - -
 }
-
